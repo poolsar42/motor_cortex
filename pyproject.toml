@@ -6,8 +6,11 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "cython>=3.2.1",
+    "gudhi>=3.11.0",
     "ipykernel>=7.1.0",
     "matplotlib>=3.10.7",
+    "mne>=1.11.0",
+    "mne-bids>=0.18.0",
     "python-dotenv>=1.2.1",
     "ripser>=0.6.12",
     "scikit-learn>=1.7.2",
